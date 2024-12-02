@@ -1,12 +1,12 @@
 id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause
 2397be82-1de5-4e05-bf1e-f4b413e1c264,2022-10-04 20:51:49+00:00,33.775726,-84.401371,Tennessee Warbler,Leiothlypis peregrina,tenwar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure
-75e0cc82-fe3d-4016-8f03-b57ddf8cb092,2022-10-04 20:55:21.088000+00:00,33.775735,-84.401312,Common Yellowthroat,Geothlypis trichas,comyel,UNKNOWN,UNKNOWN,DEAD,collision with building/structure
+75e0cc82-fe3d-4016-8f03-b57ddf8cb092,,33.775735,-84.401312,Common Yellowthroat,Geothlypis trichas,comyel,UNKNOWN,UNKNOWN,DEAD,collision with building/structure
 364fd615-b9e7-482a-b042-e633ad1304a8,2023-01-12 17:24:08+00:00,33.775402,-84.401329,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,collision with building/structure
 34e36074-0678-4932-b348-9ecec65ce10f,2023-04-05 14:43:26+00:00,33.775689,-84.401307,White-breasted Nuthatch,Sitta carolinensis,whbnut,ADULT,UNKNOWN,DEAD,collision with building/structure
 5b1cfb1e-c056-45dc-8c8a-21b806f700c9,2023-04-05 15:33:59+00:00,33.775247,-84.401624,Cedar Waxwing,Bombycilla cedrorum,cedwax,UNKNOWN,UNKNOWN,DEAD,collision with building/structure
-fa838073-7518-4112-80af-4129ad24af8f,2023-08-22 15:51:10.562000+00:00,33.775196,-84.401559,American Robin,Turdus migratorius,amerob,JUVENILE,UNKNOWN,DEAD,collision with building/structure
-0a3fa3dd-2977-4dfc-953a-18ea29b77657,2024-02-18 18:27:41.338000+00:00,33.775251,-84.401479,Cedar Waxwing,Bombycilla cedrorum,cedwax,JUVENILE,UNKNOWN,DEAD,collision with building/structure
-7e607981-cf66-4c86-9ad4-4d1bb2b51b9e,2024-02-18 18:27:59.629000+00:00,33.775244,-84.401489,Cedar Waxwing,Bombycilla cedrorum,cedwax,JUVENILE,UNKNOWN,DEAD,collision with building/structure
-9b0e5c5e-e447-4d6c-b694-e9bb2571fd2f,2024-02-25 23:35:24.781000+00:00,33.775229,-84.401463,unknown,unknown,,ADULT,UNKNOWN,DEAD,unknown
+fa838073-7518-4112-80af-4129ad24af8f,,33.775196,-84.401559,American Robin,Turdus migratorius,amerob,JUVENILE,UNKNOWN,DEAD,collision with building/structure
+0a3fa3dd-2977-4dfc-953a-18ea29b77657,,33.775251,-84.401479,Cedar Waxwing,Bombycilla cedrorum,cedwax,JUVENILE,UNKNOWN,DEAD,collision with building/structure
+7e607981-cf66-4c86-9ad4-4d1bb2b51b9e,,33.775244,-84.401489,Cedar Waxwing,Bombycilla cedrorum,cedwax,JUVENILE,UNKNOWN,DEAD,collision with building/structure
+9b0e5c5e-e447-4d6c-b694-e9bb2571fd2f,,33.775229,-84.401463,unknown,unknown,,ADULT,UNKNOWN,DEAD,unknown
 8b469b17-3bf5-465f-b70d-6a4a92038afb,2024-02-25 23:36:01+00:00,33.775223,-84.401602,Cedar Waxwing,Bombycilla cedrorum,cedwax,ADULT,UNKNOWN,DEAD,unknown
 09d2dc99-3944-4bef-9056-36b1c1e6f917,2024-09-24 19:00:19+00:00,33.775033,-84.401601,Ovenbird,Seiurus aurocapilla,ovenbi1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure
