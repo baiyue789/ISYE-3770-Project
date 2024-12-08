@@ -1,0 +1,42 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+7aae21c0-1f6e-4345-9cb3-1432891fe274,2022-01-10,33.776033,-84.398841,Song Sparrow,Melospiza melodia,sonspa,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+6bdc9b6d-c877-40e1-b445-29ce0ada1cde,2022-01-31,33.775525,-84.401691,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+27f651f3-1739-4b7b-9ed0-3b6bc143c271,2022-03-29,33.77766,-84.40412,American Crow,Corvus brachyrhynchos,amecro,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+3967ca93-b5aa-458b-93d6-5706ff35a256,2022-03-29,33.780245,-84.394584,Ruby-throated Hummingbird,Archilochus colubris,rthhum,ADULT,MALE,INJURED,collision with building/structure,2022
+fd15ad88-8b43-4a8f-874e-26f0c0b9d0b1,2022-04-02,33.772398,-84.394312,Cedar Waxwing,Bombycilla cedrorum,cedwax,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+fd41be75-f7f1-4c98-8139-01eae9be294b,2022-04-12,33.77733,-84.403297,Indigo Bunting,Passerina cyanea,indbun,ADULT,MALE,DEAD,unknown,2022
+bbba023a-8f4c-4784-8354-e1d00ed2aaea,2022-04-13,33.779402,-84.403737,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+cde1007a-e884-4f8b-afba-0e0e4b75ed2c,2022-04-14,33.774931,-84.401479,American Goldfinch,Spinus tristis,amegfi,ADULT,MALE,DEAD,collision with building/structure,2022
+b886df07-937b-4c2e-acdd-5fe972bc2d23,2022-04-14,33.779904,-84.396635,Downy Woodpecker,Dryobates pubescens,dowwoo,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+92adcee2-8936-4d25-bfaa-32da9aec79a9,2022-04-16,33.778265,-84.3984,unknown,unknown,,UNKNOWN,UNKNOWN,INJURED,unknown,2022
+bc21c174-1af2-495f-b72f-c2d6328700ee,2022-04-18,33.774432,-84.391691,Black-and-white Warbler,Mniotilta varia,bawwar,ADULT,UNKNOWN,DEAD,unknown,2022
+3398a79e-6907-4786-aae8-538b4fbcfc6a,2022-04-19,33.77766,-84.40412,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+5b4e7b4e-9d26-4807-814b-e05adabc8a98,2022-04-19,33.774257,-84.395406,White-eyed Vireo,Vireo griseus,whevir,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+e6c7f3bc-3994-4f92-822b-6128f505f74d,2022-04-19,33.773927,-84.394634,Northern Mockingbird,Mimus polyglottos,normoc,JUVENILE,UNKNOWN,INJURED,unknown,2022
+6e6fcafc-5665-407b-8daa-99168af8d8b0,2022-04-22,33.780629,-84.397634,passerine sp.,Passeriformes sp.,passer1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+eb0b2c4c-4973-498b-8734-932b4603c2c9,2022-04-22,33.780115,-84.396951,Summer Tanager,Piranga rubra,sumtan,JUVENILE,MALE,DEAD,unknown,2022
+19f1de66-1edb-4b80-9621-f4ec86003995,2022-04-22,33.780126,-84.396935,Summer Tanager,Piranga rubra,sumtan,JUVENILE,MALE,DEAD,collision with building/structure,2022
+a151c849-5e26-4c9f-9fdf-6cf4fe3b9276,2022-04-22,33.771781,-84.39476,Eastern Towhee,Pipilo erythrophthalmus,eastow,ADULT,MALE,DEAD,unknown,2022
+81b20c63-557e-42b5-bad0-fe9eafdb83dc,2022-04-23,33.778042,-84.393652,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,unknown,2022
+72fa7921-00df-45eb-b84b-5b459bab5116,2022-04-24,33.778894,-84.404933,Gray Catbird,Dumetella carolinensis,grycat,ADULT,UNKNOWN,DEAD,unknown,2022
+04c32940-35d3-43bf-af5f-8046eece6d90,2022-04-25,33.779584,-84.405009,Common Yellowthroat,Geothlypis trichas,comyel,ADULT,MALE,INJURED,collision with building/structure,2022
+8c163b20-c837-437b-8e31-1cdf50fbb286,2022-04-25,33.779711,-84.396687,Gray Catbird,Dumetella carolinensis,grycat,ADULT,FEMALE,DEAD,collision with building/structure,2022
+f1a08dde-a10f-46f4-8df9-0e29c7f0825a,2022-04-25,33.779664,-84.396529,Northern Waterthrush,Parkesia noveboracensis,norwat,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+f395bd2a-7545-4164-9988-7cb62fd6bcb7,2022-04-25,33.779721,-84.396593,Ruby-throated Hummingbird,Archilochus colubris,rthhum,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+23f33f7b-944e-40c8-b6b5-7b119b3a5e3f,2022-04-25,33.779793,-84.396626,Ovenbird,Seiurus aurocapilla,ovenbi1,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+cc8a3838-890e-4c60-8459-cd8130c03738,2022-04-28,33.779946,-84.396733,Blackpoll Warbler,Setophaga striata,bkpwar,ADULT,MALE,DEAD,unknown,2022
+982d29ce-6e2a-4e91-adbe-99fe4d6f709f,2022-04-28,33.779602,-84.396597,Northern Waterthrush,Parkesia noveboracensis,norwat,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+3f0ea471-735b-44f6-b4cf-bfc7607bf311,2022-04-29,33.780126,-84.396254,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+86e88e5e-855a-4428-bea7-d141a22b9a7a,2022-04-30,33.779228,-84.397777,Rock Pigeon,Columba livia,rocpig,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+5fbad96c-0171-48ee-b82f-db5a22734895,2022-04-30,33.780209,-84.396462,Indigo Bunting,Passerina cyanea,indbun,ADULT,MALE,DEAD,collision with building/structure,2022
+4c9bb408-9412-459f-b0ec-a3884ec67792,2022-05-01,33.780152,-84.396721,Cape May Warbler,Setophaga tigrina,camwar,ADULT,MALE,DEAD,collision with building/structure,2022
+e9ba77f7-1b05-4a67-b2f7-8790336fb9c1,2022-05-01,33.776834,-84.398185,Yellow-billed Cuckoo,Coccyzus americanus,yebcuc,ADULT,UNKNOWN,INJURED,collision with building/structure,2022
+a2b60d94-2869-4cef-b88d-64b08815a42f,2022-05-02,33.780093,-84.396646,Red-eyed Vireo,Vireo olivaceus,reevir1,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+1671ddaa-e626-45ba-9d9f-6520374f6c27,2022-05-03,33.776033,-84.398841,Red-eyed Vireo,Vireo olivaceus,reevir1,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+48aa12a1-b861-4c4f-a4f9-6506fb34cdc1,2022-05-03,33.775055,-84.403099,Indigo Bunting,Passerina cyanea,indbun,JUVENILE,UNKNOWN,DEAD,collision with building/structure,2022
+a8b80407-5af0-4e8f-9cbf-5570a4cf3c2b,2022-05-03,33.780634,-84.398011,Cape May Warbler,Setophaga tigrina,camwar,ADULT,MALE,DEAD,unknown,2022
+15b1985e-fe24-4233-8870-7b4732861655,2022-05-05,33.775829,-84.39351,Rose-breasted Grosbeak,Pheucticus ludovicianus,robgro,UNKNOWN,MALE,DEAD,unknown,2022
+8a67349a-e1cd-45b2-a12e-3d742b8ec0c0,2022-05-20,33.77408,-84.394884,passerine sp.,Passeriformes sp.,passer1,JUVENILE,UNKNOWN,DEAD,unknown,2022
+9f42beb0-ff4d-486e-aa2f-e8dca1679457,2022-05-29,33.780305,-84.396962,Carolina Chickadee,Poecile carolinensis,carchi,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+6a09b107-aba4-4ec2-9209-b9372e358b4e,2022-06-01,33.780091,-84.397064,American Robin,Turdus migratorius,amerob,JUVENILE,UNKNOWN,DEAD,unknown,2022
+b9ef1bd3-7f59-4fe4-9970-a77acdd444ba,2022-06-14,33.780655,-84.403499,Blue Jay,Cyanocitta cristata,blujay,JUVENILE,UNKNOWN,DEAD,unknown,2022
