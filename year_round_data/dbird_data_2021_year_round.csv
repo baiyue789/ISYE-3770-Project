@@ -1,0 +1,24 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+c2c91244-107c-461b-8f67-fcf0427c2ecb,2021-03-15,33.772854,-84.391877,Yellow-bellied Sapsucker,Sphyrapicus varius,yebsap,ADULT,MALE,DEAD,collision with building/structure,2021
+96690ab1-5ead-43db-a9c9-5eff6b595c74,2021-08-23,33.774252,-84.395396,Ruby-throated Hummingbird,Archilochus colubris,rthhum,ADULT,FEMALE,INJURED,collision with building/structure,2021
+181decfd-1e48-4094-825a-b97fff386408,2021-09-21,33.77785,-84.402125,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2021
+e407ee04-b21f-49fe-aefc-f401d0f3d6de,2021-09-28,33.77847,-84.397214,Eastern Phoebe,Sayornis phoebe,easpho,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2021
+811f5fbe-933d-4b79-ace5-458293ee81fc,2021-10-18,33.771884,-84.395607,passerine sp.,Passeriformes sp.,passer1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2021
+1492cb72-09c1-4019-8d0d-8fcc10f8485f,2021-10-18,33.776033,-84.398841,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2021
+654fa2b8-d4ef-421d-a417-7d529f2a19ca,2021-10-21,33.780315,-84.400629,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2021
+c2550f79-c000-4ba8-a80c-6a91b87f8a5c,2021-11-02,33.775983,-84.397128,Northern Cardinal,Cardinalis cardinalis,norcar,ADULT,FEMALE,DEAD,collision with building/structure,2021
+9e75a3db-66dc-4676-b082-2abccce64d99,2021-11-09,33.776012,-84.394011,Rock Pigeon,Columba livia,rocpig,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2021
+20411635-73fd-453c-b536-95f9ed49f973,2021-11-15,33.775216,-84.396275,Rock Pigeon,Columba livia,rocpig,ADULT,UNKNOWN,DEAD,vehicle collision,2021
+b17ee123-7786-485f-bcbf-75d031205036,2021-11-16,33.775231,-84.396338,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2021
+c8ad7e5f-0b9b-4f9e-becc-ee4d0e1a4554,2021-11-17,33.774649,-84.396413,Rock Pigeon,Columba livia,rocpig,ADULT,UNKNOWN,DEAD,vehicle collision,2021
+c6ab8740-31a4-4a43-8441-7b4095934c86,2021-11-21,33.774649,-84.396413,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2021
+d3fc667f-1251-4cee-b7ca-21cfe5eb630f,2021-11-23,33.77893,-84.396115,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2021
+f4f46ffa-42dc-4d3b-9878-eafca942ae21,2021-11-23,33.778598,-84.396363,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2021
+ca82082d-be60-499f-84ae-de5839aef8a7,2021-11-23,33.778746,-84.39737,American Woodcock,Scolopax minor,amewoo,ADULT,UNKNOWN,DEAD,unknown,2021
+e7f2dd46-e9ee-4565-97c3-29bf945296b6,2021-11-23,33.778753,-84.395905,American Woodcock,Scolopax minor,amewoo,ADULT,UNKNOWN,DEAD,unknown,2021
+88d73eb6-65d0-4bf1-9632-e6e76e7b1459,2021-11-23,33.778815,-84.398664,unknown,unknown,,ADULT,UNKNOWN,DEAD,unknown,2021
+7a81452d-6ef8-4a67-ad22-34a673cfb9d4,2021-11-24,33.77948,-84.397874,American Woodcock,Scolopax minor,amewoo,UNKNOWN,UNKNOWN,DEAD,unknown,2021
+69aa21d0-d4f8-4dad-94f6-547154af79a8,2021-12-03,33.779765,-84.396662,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,collision with building/structure,2021
+e3f94ea2-07d8-4082-9080-9106552aba88,2021-12-03,33.780629,-84.397634,American Robin,Turdus migratorius,amerob,UNKNOWN,UNKNOWN,DEAD,entanglement,2021
+45c4f484-cf58-4873-bd57-f700653376b5,2021-12-03,33.780088,-84.39671,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,collision with building/structure,2021
+0a6076cd-63cc-4385-87a9-9791dbcf23db,2021-12-03,33.780015,-84.396751,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,collision with building/structure,2021
