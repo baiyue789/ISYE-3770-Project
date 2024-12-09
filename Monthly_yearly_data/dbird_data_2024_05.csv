@@ -1,0 +1,10 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+0cd7176a-788d-4ed5-a639-240ae673cd56,2024-05-02,33.77982,-84.396607,Indigo Bunting,Passerina cyanea,indbun,ADULT,MALE,DEAD,collision with building/structure,2024
+e0879511-1329-4e2c-a5f8-5f3c48880c4f,2024-05-03,33.779787,-84.396629,Gray Catbird,Dumetella carolinensis,grycat,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
+cccafa90-9481-47a8-92dd-4c4943113678,2024-05-03,33.777887,-84.399867,Gray Catbird,Dumetella carolinensis,grycat,UNKNOWN,UNKNOWN,DEAD,unknown,2024
+4d588a6d-f05a-458d-ae6d-c2374cf3edc2,2024-05-04,33.780097,-84.396828,Red-eyed Vireo,Vireo olivaceus,reevir1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
+d30fb439-6349-4c46-97ad-07254df20af3,2024-05-06,33.77744,-84.398678,Ovenbird,Seiurus aurocapilla,ovenbi1,ADULT,UNKNOWN,DEAD,collision with building/structure,2024
+1333ee45-820a-4c73-b23c-0570e8d0e8b7,2024-05-14,33.775947,-84.395662,American Redstart,Setophaga ruticilla,amered,UNKNOWN,FEMALE,DEAD,collision with building/structure,2024
+2c13b627-9d8f-4bb4-8048-e567d5edcf5a,2024-05-14,33.776013,-84.395755,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,other,2024
+ba5177be-c773-479a-aacf-8a849f9fe5f9,2024-05-14,33.772944,-84.39612,Ovenbird,Seiurus aurocapilla,ovenbi1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
+40b62d7b-506b-45ff-ab71-5b977bec7abd,2024-05-18,33.77669,-84.396854,Northern Mockingbird,Mimus polyglottos,normoc,JUVENILE,UNKNOWN,DEAD,collision with building/structure,2024

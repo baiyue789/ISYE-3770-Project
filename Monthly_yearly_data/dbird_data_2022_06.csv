@@ -1,0 +1,3 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+6a09b107-aba4-4ec2-9209-b9372e358b4e,2022-06-01,33.780091,-84.397064,American Robin,Turdus migratorius,amerob,JUVENILE,UNKNOWN,DEAD,unknown,2022
+b9ef1bd3-7f59-4fe4-9970-a77acdd444ba,2022-06-14,33.780655,-84.403499,Blue Jay,Cyanocitta cristata,blujay,JUVENILE,UNKNOWN,DEAD,unknown,2022

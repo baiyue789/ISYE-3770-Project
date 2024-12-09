@@ -1,17 +1,4 @@
 id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
-00726254-a8ce-4e2c-9d13-506ae478c720,2024-08-01,33.780097,-84.396706,House Finch,Haemorhous mexicanus,houfin,JUVENILE,UNKNOWN,DEAD,collision with building/structure,2024
-4ec1b8b1-0b46-4603-b1ac-2f6109c65307,2024-08-22,33.778973,-84.396257,Chestnut-sided Warbler,Setophaga pensylvanica,chswar,UNKNOWN,UNKNOWN,INJURED,collision with building/structure,2024
-d67b36e3-7f6f-4d72-bcde-6cf0f27f4506,2024-09-04,33.775792,-84.399947,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2024
-381da60c-47b3-4aa4-a644-5e11efbff957,2024-09-04,33.780045,-84.396914,Summer Tanager,Piranga rubra,sumtan,ADULT,FEMALE,DEAD,collision with building/structure,2024
-977f6cef-a2af-427c-9193-a1d07534e2a6,2024-09-11,33.779432,-84.396461,Black-and-white Warbler,Mniotilta varia,bawwar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-59d91a4a-1844-4a20-a23a-a94265c3fec2,2024-09-15,33.779016,-84.396206,Ovenbird,Seiurus aurocapilla,ovenbi1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-e481ba4c-6cb3-46d0-acc9-f356cc823d84,2024-09-16,33.774179,-84.39538,Black-and-white Warbler,Mniotilta varia,bawwar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-60d49714-badd-4258-afc1-72d3f0a4ce18,2024-09-20,33.77934,-84.404638,Ruby-throated Hummingbird,Archilochus colubris,rthhum,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-5a4d4d2e-dcab-409a-b919-4b268331e7fc,2024-09-23,33.774682,-84.395052,Carolina Wren,Thryothorus ludovicianus,carwre,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-b7c82771-67f6-4308-ad9e-aee06d55d2e9,2024-09-25,33.77884,-84.397339,American Robin,Turdus migratorius,amerob,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-68339b8c-6c81-4383-b02b-3562d040852e,2024-09-25,33.77906,-84.397096,warbler sp. (Parulidae sp.),Parulidae sp.,warble,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-6fa0dd6c-9b3e-4c9d-9687-123ca8a8d17d,2024-09-28,33.775084,-84.400627,Gray Catbird,Dumetella carolinensis,grycat,UNKNOWN,UNKNOWN,INJURED,collision with building/structure,2024
-a35a72f0-5cbe-4cab-b30a-f80a80bdddf0,2024-09-30,33.780042,-84.396858,Palm Warbler,Setophaga palmarum,palwar,ADULT,UNKNOWN,DEAD,collision with building/structure,2024
 a6455700-c11f-4aad-a85d-de4553fd442f,2024-10-01,33.779995,-84.396222,Swainson's Thrush,Catharus ustulatus,swathr,ADULT,UNKNOWN,DEAD,collision with building/structure,2024
 32167b84-a007-4bd4-9108-15c94c330599,2024-10-01,33.780044,-84.395773,Swainson's Thrush,Catharus ustulatus,swathr,UNKNOWN,UNKNOWN,DEAD,unknown,2024
 8e574ee3-6878-425c-9923-501edb78b69c,2024-10-01,33.776961,-84.395969,Tennessee Warbler,Leiothlypis peregrina,tenwar,ADULT,UNKNOWN,DEAD,collision with building/structure,2024
@@ -78,16 +65,3 @@ b06f061c-a090-44e7-ad49-9b401970d25b,2024-10-22,33.781115,-84.39774,unknown,unkn
 8b0d1923-c6d3-49eb-b910-90dae499759b,2024-10-29,33.779932,-84.396683,Ovenbird,Seiurus aurocapilla,ovenbi1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
 bf5b5cdc-1c64-41d7-a05c-6bfa29618f43,2024-10-29,33.780005,-84.396656,White-throated Sparrow,Zonotrichia albicollis,whtspa,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
 408a481f-8420-430a-9671-9ab20a71cb0e,2024-10-30,33.774216,-84.395447,Cape May Warbler,Setophaga tigrina,camwar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-e8c616ad-c8ea-4588-bd01-70ee49c6e62f,2024-11-04,33.776918,-84.396198,Gray-cheeked Thrush,Catharus minimus,gycthr,UNKNOWN,UNKNOWN,DEAD,unknown,2024
-7335b02f-ffb9-4e6c-a0c4-0656e9eb0b9f,2024-11-05,33.779826,-84.396752,White-throated Sparrow,Zonotrichia albicollis,whtspa,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-3b983992-cd5d-4aef-bd8c-3123fb0b8111,2024-11-06,33.775666,-84.397311,Ovenbird,Seiurus aurocapilla,ovenbi1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-e26fec04-e449-458a-94ca-2fb00bd2ec24,2024-11-06,33.775688,-84.397305,Northern Waterthrush,Parkesia noveboracensis,norwat,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-801616eb-5d51-48c3-96e7-f291f8ecb6bb,2024-11-07,33.778752,-84.396222,Gray-cheeked Thrush,Catharus minimus,gycthr,JUVENILE,UNKNOWN,DEAD,collision with building/structure,2024
-d8f7cabd-3b82-414b-89ea-2c38cbfb79fa,2024-11-11,33.774408,-84.395369,Yellow-bellied Sapsucker,Sphyrapicus varius,yebsap,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-263cfad9-18e1-4742-8dd1-3bb6073c8714,2024-11-12,33.780065,-84.39664,White-throated Sparrow,Zonotrichia albicollis,whtspa,ADULT,UNKNOWN,DEAD,collision with building/structure,2024
-87bdf940-b55b-46f1-acaa-c2ffbfea437e,2024-11-13,33.780904,-84.397911,Ovenbird,Seiurus aurocapilla,ovenbi1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-a144d1dd-c026-4aa4-8a35-74dea3df9900,2024-11-13,33.774203,-84.395921,Yellow-billed Cuckoo,Coccyzus americanus,yebcuc,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-54db4726-c38d-4925-930d-bf950640745c,2024-11-13,33.77421,-84.395873,Yellow-bellied Sapsucker,Sphyrapicus varius,yebsap,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-7055daa2-5b2b-47f4-b19d-522596cbf64d,2024-11-13,33.774201,-84.395771,Gray Catbird,Dumetella carolinensis,grycat,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-1ed37f8e-4601-47e3-a849-66f6e734b8a7,2024-11-13,33.774201,-84.395766,Northern Parula,Setophaga americana,norpar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-f2b67b2a-12b3-4d5a-8c1d-dec9b3923fe6,2024-11-13,33.774299,-84.39553,Rose-breasted Grosbeak,Pheucticus ludovicianus,robgro,JUVENILE,MALE,DEAD,collision with building/structure,2024

@@ -1,0 +1,14 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+e8c616ad-c8ea-4588-bd01-70ee49c6e62f,2024-11-04,33.776918,-84.396198,Gray-cheeked Thrush,Catharus minimus,gycthr,UNKNOWN,UNKNOWN,DEAD,unknown,2024
+7335b02f-ffb9-4e6c-a0c4-0656e9eb0b9f,2024-11-05,33.779826,-84.396752,White-throated Sparrow,Zonotrichia albicollis,whtspa,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
+3b983992-cd5d-4aef-bd8c-3123fb0b8111,2024-11-06,33.775666,-84.397311,Ovenbird,Seiurus aurocapilla,ovenbi1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
+e26fec04-e449-458a-94ca-2fb00bd2ec24,2024-11-06,33.775688,-84.397305,Northern Waterthrush,Parkesia noveboracensis,norwat,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
+801616eb-5d51-48c3-96e7-f291f8ecb6bb,2024-11-07,33.778752,-84.396222,Gray-cheeked Thrush,Catharus minimus,gycthr,JUVENILE,UNKNOWN,DEAD,collision with building/structure,2024
+d8f7cabd-3b82-414b-89ea-2c38cbfb79fa,2024-11-11,33.774408,-84.395369,Yellow-bellied Sapsucker,Sphyrapicus varius,yebsap,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
+263cfad9-18e1-4742-8dd1-3bb6073c8714,2024-11-12,33.780065,-84.39664,White-throated Sparrow,Zonotrichia albicollis,whtspa,ADULT,UNKNOWN,DEAD,collision with building/structure,2024
+87bdf940-b55b-46f1-acaa-c2ffbfea437e,2024-11-13,33.780904,-84.397911,Ovenbird,Seiurus aurocapilla,ovenbi1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
+a144d1dd-c026-4aa4-8a35-74dea3df9900,2024-11-13,33.774203,-84.395921,Yellow-billed Cuckoo,Coccyzus americanus,yebcuc,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
+54db4726-c38d-4925-930d-bf950640745c,2024-11-13,33.77421,-84.395873,Yellow-bellied Sapsucker,Sphyrapicus varius,yebsap,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
+7055daa2-5b2b-47f4-b19d-522596cbf64d,2024-11-13,33.774201,-84.395771,Gray Catbird,Dumetella carolinensis,grycat,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
+1ed37f8e-4601-47e3-a849-66f6e734b8a7,2024-11-13,33.774201,-84.395766,Northern Parula,Setophaga americana,norpar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
+f2b67b2a-12b3-4d5a-8c1d-dec9b3923fe6,2024-11-13,33.774299,-84.39553,Rose-breasted Grosbeak,Pheucticus ludovicianus,robgro,JUVENILE,MALE,DEAD,collision with building/structure,2024

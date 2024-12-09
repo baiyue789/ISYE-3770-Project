@@ -1,0 +1,3 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+27f651f3-1739-4b7b-9ed0-3b6bc143c271,2022-03-29,33.77766,-84.40412,American Crow,Corvus brachyrhynchos,amecro,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+3967ca93-b5aa-458b-93d6-5706ff35a256,2022-03-29,33.780245,-84.394584,Ruby-throated Hummingbird,Archilochus colubris,rthhum,ADULT,MALE,INJURED,collision with building/structure,2022

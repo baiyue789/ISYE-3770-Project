@@ -1,0 +1,4 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+60c8adb3-d02b-44a5-aeec-807753c5480b,2023-01-10,33.775842,-84.401922,House Finch,Haemorhous mexicanus,houfin,ADULT,FEMALE,DEAD,collision with building/structure,2023
+8d12a831-a9ab-4104-aac4-5a704b2528f0,2023-01-23,33.776976,-84.400583,American Goldfinch,Spinus tristis,amegfi,UNKNOWN,UNKNOWN,DEAD,unknown,2023
+b7b26786-15e0-408d-814f-04a1e91d809e,2023-01-25,33.77887,-84.406285,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023

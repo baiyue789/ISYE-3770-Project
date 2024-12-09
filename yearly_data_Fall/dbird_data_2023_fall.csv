@@ -1,6 +1,4 @@
 id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
-8df1b44a-5086-4f90-b1dd-ae5f6a4ee5d9,2023-07-13,33.780036,-84.396778,Blue Jay,Cyanocitta cristata,blujay,JUVENILE,UNKNOWN,DEAD,collision with building/structure,2023
-0dd7792a-2f60-4f5e-ad27-a143ddb60b81,2023-07-17,33.775835,-84.39316,Black-and-white Warbler,Mniotilta varia,bawwar,ADULT,UNKNOWN,DEAD,unknown,2023
 55b5497b-6092-4b9b-8ed4-28c404b2e8be,2023-08-14,33.779923,-84.396655,Black-and-white Warbler,Mniotilta varia,bawwar,ADULT,FEMALE,DEAD,collision with building/structure,2023
 d239c87a-bac4-4486-95af-3ce09165df2e,2023-08-21,33.779786,-84.396586,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2023
 600badf3-005f-4a11-9bdf-6c8fd2599d2e,2023-08-21,33.779779,-84.396452,Northern Parula,Setophaga americana,norpar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
@@ -94,7 +92,3 @@ ead8ab5b-de9c-4e07-8a7b-90eb8a7a5d19,2023-11-05,33.775431,-84.40192,Palm Warbler
 9c83f804-0d58-4638-8878-de26c2ef2f88,2023-11-15,33.774212,-84.395711,passerine sp.,Passeriformes sp.,passer1,UNKNOWN,UNKNOWN,DEAD,unknown,2023
 6c416be9-abc4-4b5b-9132-3165293c0faf,2023-11-15,33.774222,-84.395724,passerine sp.,Passeriformes sp.,passer1,UNKNOWN,UNKNOWN,DEAD,unknown,2023
 1e9ea7fe-5a4f-4066-9a4b-04a9aa76240f,2023-11-19,33.776348,-84.387687,Hermit Thrush,Catharus guttatus,herthr,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
-b14085f5-4cf4-483f-8736-3ef8aae4ac75,2023-12-03,33.774209,-84.395832,Hermit Thrush,Catharus guttatus,herthr,UNKNOWN,UNKNOWN,DEAD,unknown,2023
-5cd73636-5278-41e7-a303-009a53df07c0,2023-12-27,33.779973,-84.396619,Red-tailed Hawk,Buteo jamaicensis,rethaw,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
-c13ea940-4cea-428b-891a-7f6ad2a48c6b,2023-12-27,33.776095,-84.398808,Red-tailed Hawk,Buteo jamaicensis,rethaw,ADULT,UNKNOWN,DEAD,unknown,2023
-4d0d4c80-92e7-40e3-b9d9-eeb53dde15d0,2023-12-30,33.780097,-84.396533,Red-tailed Hawk,Buteo jamaicensis,rethaw,ADULT,UNKNOWN,DEAD,collision with building/structure,2023

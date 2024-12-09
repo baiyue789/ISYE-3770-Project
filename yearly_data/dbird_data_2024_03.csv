@@ -1,0 +1,5 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+e73e2fad-bc29-4db9-9d8b-95cc91a3aa2c,2024-03-05,33.779782,-84.39668,Brown Thrasher,Toxostoma rufum,brnthr,ADULT,UNKNOWN,DEAD,collision with building/structure,2024
+b497f3e1-1656-459f-b8df-c83875fbedf7,2024-03-11,33.780071,-84.396093,Cedar Waxwing,Bombycilla cedrorum,cedwax,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
+f2aa5720-af83-4a49-928a-2ca11e156f99,2024-03-12,33.779896,-84.395976,Cedar Waxwing,Bombycilla cedrorum,cedwax,ADULT,UNKNOWN,DEAD,collision with building/structure,2024
+b0051e5b-bbc9-4cda-abf8-ed52d8fd980d,2024-03-16,33.780097,-84.39664,Cedar Waxwing,Bombycilla cedrorum,cedwax,ADULT,UNKNOWN,DEAD,collision with building/structure,2024

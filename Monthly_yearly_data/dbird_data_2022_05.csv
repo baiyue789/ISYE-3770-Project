@@ -1,0 +1,10 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+4c9bb408-9412-459f-b0ec-a3884ec67792,2022-05-01,33.780152,-84.396721,Cape May Warbler,Setophaga tigrina,camwar,ADULT,MALE,DEAD,collision with building/structure,2022
+e9ba77f7-1b05-4a67-b2f7-8790336fb9c1,2022-05-01,33.776834,-84.398185,Yellow-billed Cuckoo,Coccyzus americanus,yebcuc,ADULT,UNKNOWN,INJURED,collision with building/structure,2022
+a2b60d94-2869-4cef-b88d-64b08815a42f,2022-05-02,33.780093,-84.396646,Red-eyed Vireo,Vireo olivaceus,reevir1,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+1671ddaa-e626-45ba-9d9f-6520374f6c27,2022-05-03,33.776033,-84.398841,Red-eyed Vireo,Vireo olivaceus,reevir1,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+48aa12a1-b861-4c4f-a4f9-6506fb34cdc1,2022-05-03,33.775055,-84.403099,Indigo Bunting,Passerina cyanea,indbun,JUVENILE,UNKNOWN,DEAD,collision with building/structure,2022
+a8b80407-5af0-4e8f-9cbf-5570a4cf3c2b,2022-05-03,33.780634,-84.398011,Cape May Warbler,Setophaga tigrina,camwar,ADULT,MALE,DEAD,unknown,2022
+15b1985e-fe24-4233-8870-7b4732861655,2022-05-05,33.775829,-84.39351,Rose-breasted Grosbeak,Pheucticus ludovicianus,robgro,UNKNOWN,MALE,DEAD,unknown,2022
+8a67349a-e1cd-45b2-a12e-3d742b8ec0c0,2022-05-20,33.77408,-84.394884,passerine sp.,Passeriformes sp.,passer1,JUVENILE,UNKNOWN,DEAD,unknown,2022
+9f42beb0-ff4d-486e-aa2f-e8dca1679457,2022-05-29,33.780305,-84.396962,Carolina Chickadee,Poecile carolinensis,carchi,UNKNOWN,UNKNOWN,DEAD,unknown,2022

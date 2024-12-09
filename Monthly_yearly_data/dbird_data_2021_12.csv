@@ -1,0 +1,5 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+69aa21d0-d4f8-4dad-94f6-547154af79a8,2021-12-03,33.779765,-84.396662,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,collision with building/structure,2021
+e3f94ea2-07d8-4082-9080-9106552aba88,2021-12-03,33.780629,-84.397634,American Robin,Turdus migratorius,amerob,UNKNOWN,UNKNOWN,DEAD,entanglement,2021
+45c4f484-cf58-4873-bd57-f700653376b5,2021-12-03,33.780088,-84.39671,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,collision with building/structure,2021
+0a6076cd-63cc-4385-87a9-9791dbcf23db,2021-12-03,33.780015,-84.396751,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,collision with building/structure,2021

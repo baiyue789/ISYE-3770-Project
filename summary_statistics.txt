@@ -1,0 +1,2 @@
+Mean size of datasets (monthly): 11.95
+Standard deviation of dataset sizes (monthly): 16.50

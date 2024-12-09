@@ -1,0 +1,3 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+71313dd1-3628-42b9-b276-132bfbbf7ea7,2017-10-01,33.776419,-84.398585,Ovenbird,Seiurus aurocapilla,ovenbi1,ADULT,UNKNOWN,INJURED,collision with building/structure,2017
+e673fad3-5cd0-4808-8393-51f5c18dc3e1,2017-10-01,33.773501,-84.396501,woodpecker sp.,Picidae sp.,woodpe1,ADULT,UNKNOWN,DEAD,,2017

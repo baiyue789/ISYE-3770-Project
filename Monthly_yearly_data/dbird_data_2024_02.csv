@@ -1,0 +1,3 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+1d8dd262-64bc-4c8c-9470-1a53527db200,2024-02-08,33.779984,-84.397482,Eastern Towhee,Pipilo erythrophthalmus,eastow,ADULT,MALE,DEAD,collision with building/structure,2024
+ec35a2cd-18d6-4b63-9021-95f55dcf647f,2024-02-23,33.776315,-84.395622,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,collision with building/structure,2024

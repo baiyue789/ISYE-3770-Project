@@ -1,10 +1,4 @@
 id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
-96690ab1-5ead-43db-a9c9-5eff6b595c74,2021-08-23,33.774252,-84.395396,Ruby-throated Hummingbird,Archilochus colubris,rthhum,ADULT,FEMALE,INJURED,collision with building/structure,2021
-181decfd-1e48-4094-825a-b97fff386408,2021-09-21,33.77785,-84.402125,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2021
-e407ee04-b21f-49fe-aefc-f401d0f3d6de,2021-09-28,33.77847,-84.397214,Eastern Phoebe,Sayornis phoebe,easpho,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2021
-811f5fbe-933d-4b79-ace5-458293ee81fc,2021-10-18,33.771884,-84.395607,passerine sp.,Passeriformes sp.,passer1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2021
-1492cb72-09c1-4019-8d0d-8fcc10f8485f,2021-10-18,33.776033,-84.398841,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2021
-654fa2b8-d4ef-421d-a417-7d529f2a19ca,2021-10-21,33.780315,-84.400629,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2021
 c2550f79-c000-4ba8-a80c-6a91b87f8a5c,2021-11-02,33.775983,-84.397128,Northern Cardinal,Cardinalis cardinalis,norcar,ADULT,FEMALE,DEAD,collision with building/structure,2021
 9e75a3db-66dc-4676-b082-2abccce64d99,2021-11-09,33.776012,-84.394011,Rock Pigeon,Columba livia,rocpig,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2021
 20411635-73fd-453c-b536-95f9ed49f973,2021-11-15,33.775216,-84.396275,Rock Pigeon,Columba livia,rocpig,ADULT,UNKNOWN,DEAD,vehicle collision,2021

@@ -1,0 +1,13 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+7a06711d-906b-4804-a16a-df8de8c492bf,2022-11-01,33.779639,-84.397166,Ovenbird,Seiurus aurocapilla,ovenbi1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+14daa8c1-0390-43aa-9a44-ebfc5c1d87bb,2022-11-03,33.776939,-84.395964,Hermit Thrush,Catharus guttatus,herthr,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+3d8ee22c-7be3-4c73-a01d-524c2c02b74d,2022-11-07,33.773858,-84.396078,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+9485b7e6-828b-4c95-8391-a61fe764f493,2022-11-08,33.780045,-84.396656,White-throated Sparrow,Zonotrichia albicollis,whtspa,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+4a02c9b2-fea8-4054-809c-97d5810fba8f,2022-11-08,33.779045,-84.397288,American Woodcock,Scolopax minor,amewoo,UNKNOWN,UNKNOWN,INJURED,collision with building/structure,2022
+fcd4ad93-54de-4273-affe-97b29e0052ce,2022-11-09,33.775518,-84.401738,passerine sp.,Passeriformes sp.,passer1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+95c33362-56a9-4e49-91e2-eec863bc2884,2022-11-10,33.775547,-84.401688,Swamp Sparrow,Melospiza georgiana,swaspa,JUVENILE,UNKNOWN,DEAD,unknown,2022
+ca4afa71-417b-4420-ba8b-a1f3ebacfbec,2022-11-10,33.7767,-84.388042,American Robin,Turdus migratorius,amerob,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+9880d74e-bcc7-4569-a3e8-6c582d633922,2022-11-10,33.776718,-84.398732,Swamp Sparrow,Melospiza georgiana,swaspa,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+486d9219-acab-4115-9a3c-8222c2381588,2022-11-11,33.775509,-84.401822,passerine sp.,Passeriformes sp.,passer1,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+00bb2c6d-2585-40f8-8096-5886eb409f83,2022-11-12,33.776004,-84.395854,Dark-eyed Junco,Junco hyemalis,daejun,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+36f54614-a634-4d62-9565-bc1bdb87c658,2022-11-21,33.778455,-84.399676,Song Sparrow,Melospiza melodia,sonspa,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022

@@ -1,0 +1,14 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+c9071de0-efbf-4bb2-bfc1-851de04c238c,2023-11-01,33.779787,-84.400302,Ovenbird,Seiurus aurocapilla,ovenbi1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+8e40b946-5392-4628-bb4e-fc45843b6af3,2023-11-03,33.774932,-84.4015,unknown,unknown,,UNKNOWN,UNKNOWN,INJURED,unknown,2023
+b9f6e372-1f6b-4231-b841-ee800cabfde1,2023-11-03,33.776033,-84.398841,White-throated Sparrow,Zonotrichia albicollis,whtspa,UNKNOWN,UNKNOWN,INJURED,unknown,2023
+27402c96-07b8-4733-a22c-0d93ff0f0aab,2023-11-03,33.777049,-84.395906,American Woodcock,Scolopax minor,amewoo,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+92030c82-6559-467b-82d3-ee44b29e8574,2023-11-03,33.774881,-84.401549,Hermit Thrush,Catharus guttatus,herthr,UNKNOWN,UNKNOWN,INJURED,collision with building/structure,2023
+1fcc3519-bba0-4f3a-be80-ba0ee5252311,2023-11-03,33.774603,-84.401671,Hermit Thrush,Catharus guttatus,herthr,UNKNOWN,UNKNOWN,INJURED,collision with building/structure,2023
+04f85e8e-89e7-4edb-9598-2d4d91763f77,2023-11-04,33.780018,-84.396656,Swainson's Thrush,Catharus ustulatus,swathr,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
+cc5ea3d5-89bb-4851-836a-a8cdd168aefd,2023-11-05,33.780049,-84.396773,Hermit Thrush,Catharus guttatus,herthr,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+ead8ab5b-de9c-4e07-8a7b-90eb8a7a5d19,2023-11-05,33.775431,-84.40192,Palm Warbler,Setophaga palmarum,palwar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+04b7e05f-ee97-41c5-98e8-a4fb29e857e1,2023-11-05,33.778671,-84.399531,Hermit Thrush,Catharus guttatus,herthr,UNKNOWN,UNKNOWN,DEAD,unknown,2023
+9c83f804-0d58-4638-8878-de26c2ef2f88,2023-11-15,33.774212,-84.395711,passerine sp.,Passeriformes sp.,passer1,UNKNOWN,UNKNOWN,DEAD,unknown,2023
+6c416be9-abc4-4b5b-9132-3165293c0faf,2023-11-15,33.774222,-84.395724,passerine sp.,Passeriformes sp.,passer1,UNKNOWN,UNKNOWN,DEAD,unknown,2023
+1e9ea7fe-5a4f-4066-9a4b-04a9aa76240f,2023-11-19,33.776348,-84.387687,Hermit Thrush,Catharus guttatus,herthr,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023

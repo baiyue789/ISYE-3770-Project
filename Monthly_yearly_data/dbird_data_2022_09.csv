@@ -1,0 +1,53 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+e47f1610-0d63-4d47-8e3c-981e1c24c4a3,2022-09-06,33.778722,-84.39679,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+61efb550-d6f0-4f61-8d51-8c521b187f1b,2022-09-06,33.779658,-84.396677,American Robin,Turdus migratorius,amerob,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+cc7b6c4f-d45b-4a63-b004-bcae634ecfa5,2022-09-06,33.779531,-84.397069,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+327fc586-6716-419b-a2c2-77abedfb603f,2022-09-06,33.779653,-84.396715,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+56fc8783-4b44-44f4-b8e1-909dd88cfd89,2022-09-07,33.774315,-84.395374,Northern Waterthrush,Parkesia noveboracensis,norwat,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+17f560df-8104-4e3f-aecb-7735329d3374,2022-09-07,33.779323,-84.404644,Common Yellowthroat,Geothlypis trichas,comyel,JUVENILE,UNKNOWN,DEAD,collision with building/structure,2022
+8d857568-6756-46f2-9cfc-fde0e2a0e87e,2022-09-08,33.77944,-84.396571,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+3faa64ae-1946-4045-8a84-f75d395c9233,2022-09-08,33.776331,-84.387852,Northern Cardinal,Cardinalis cardinalis,norcar,JUVENILE,UNKNOWN,DEAD,unknown,2022
+850fad3b-41f7-401d-b93e-36c11321d19b,2022-09-09,33.780086,-84.396572,Hooded Warbler,Setophaga citrina,hoowar,ADULT,MALE,DEAD,collision with building/structure,2022
+6d503c9e-4d9a-4929-a48a-b3f130414032,2022-09-10,33.774173,-84.393395,Brown Thrasher,Toxostoma rufum,brnthr,ADULT,UNKNOWN,INJURED,unknown,2022
+c5b945b2-5d44-4699-8330-b440b2b61646,2022-09-12,33.774346,-84.395261,Setophaga sp.,Setophaga sp.,dendro3,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+fcb93c2d-f43a-40df-9d71-bf1143cf9c04,2022-09-12,33.77651,-84.40486,Sora,Porzana carolina,sora,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+24419c15-9121-47b2-8ccf-5243b12c6753,2022-09-12,33.775533,-84.40396,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+f6ca9718-4afc-4872-8a88-1f6b2f29bbbd,2022-09-12,33.775533,-84.40396,Sora,Porzana carolina,sora,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+1e3c62e8-0365-4ac4-839f-a4fa5f1bc882,2022-09-12,33.779987,-84.396796,Ruby-throated Hummingbird,Archilochus colubris,rthhum,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+f0b540d3-7b5f-4878-b329-07ae2d0edea0,2022-09-13,33.774533,-84.395193,Setophaga sp.,Setophaga sp.,dendro3,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+c4f69746-5dde-4c69-aebb-7f19069263ff,2022-09-14,33.773626,-84.395127,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+064cd246-a082-4152-8fb1-b71a3593c5b9,2022-09-15,33.774471,-84.396088,Common Yellowthroat,Geothlypis trichas,comyel,JUVENILE,UNKNOWN,DEAD,collision with building/structure,2022
+f2e32c3c-5b18-45ff-92b1-1d7bba0c6380,2022-09-15,33.779933,-84.395955,Chestnut-sided Warbler,Setophaga pensylvanica,chswar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+23a1a926-0c4b-4883-9f50-2c760cf8de58,2022-09-15,33.77419,-84.395701,Ovenbird,Seiurus aurocapilla,ovenbi1,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+1f1ddd7f-8003-4e72-bd63-439c90c7417d,2022-09-15,33.77415,-84.395835,Ovenbird,Seiurus aurocapilla,ovenbi1,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+7ec5fd0f-fd95-408a-8c2e-47cada7d0884,2022-09-16,33.779036,-84.406232,Ruby-throated Hummingbird,Archilochus colubris,rthhum,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+e69dd9da-bf25-48c3-af74-f27132c9ff25,2022-09-16,33.780095,-84.403259,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+034e5e87-9f7f-44ae-9e8f-e0615849777a,2022-09-16,33.779751,-84.402692,Common Yellowthroat,Geothlypis trichas,comyel,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+f674fdf6-9789-4bc1-9e74-9a9c83ab84f0,2022-09-16,33.776748,-84.389428,Northern Waterthrush,Parkesia noveboracensis,norwat,UNKNOWN,UNKNOWN,INJURED,collision with building/structure,2022
+937bc45a-0c0f-4fda-a62b-1dfff88d27ce,2022-09-17,33.780019,-84.396194,Chestnut-sided Warbler,Setophaga pensylvanica,chswar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+0837818c-7f18-44fc-8248-f3ac72339fd5,2022-09-17,33.777122,-84.395904,thrush sp.,Turdidae sp.,thrush1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+37ace548-cebd-4108-800d-167b3bb76701,2022-09-19,33.778462,-84.397152,Mourning Dove,Zenaida macroura,moudov,JUVENILE,UNKNOWN,DEAD,collision with building/structure,2022
+95e9b946-5ec7-4efa-bbc1-0d7f820633cc,2022-09-20,33.774301,-84.395369,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+f0e4069d-a62a-41f4-bc40-49bb74bcb698,2022-09-20,33.778556,-84.397024,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+ccb135e9-8338-4e36-b9b2-4d23df328034,2022-09-21,33.774177,-84.39583,Swainson's Thrush,Catharus ustulatus,swathr,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+66250291-e555-47ea-ad4c-ef437bd19798,2022-09-21,33.774174,-84.395814,Swainson's Thrush,Catharus ustulatus,swathr,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+08824421-44b3-4f0f-98dc-b0e3170b0d15,2022-09-21,33.775185,-84.396554,Swainson's Thrush,Catharus ustulatus,swathr,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+481557fb-9a63-4f5b-a6d5-2e7341f2eb9b,2022-09-21,33.776968,-84.396066,thrush sp.,Turdidae sp.,thrush1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+fd690c4c-e973-4e94-afcc-69c0ddea90a1,2022-09-21,33.777081,-84.400985,Acadian Flycatcher,Empidonax virescens,acafly,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+454e1efb-cd08-40ff-8058-87121293e6e4,2022-09-23,33.780008,-84.396511,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+d3a09509-040e-422b-bbd3-72ea8b6fee34,2022-09-23,33.779715,-84.396672,Wood Thrush,Hylocichla mustelina,woothr,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+e306df0f-3091-4998-ad4a-d9fbff16e3c9,2022-09-23,33.779748,-84.396686,Wood Thrush,Hylocichla mustelina,woothr,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+5f17901f-670f-47fd-8809-10e8dfcf81e7,2022-09-23,33.777353,-84.397372,Mourning Dove,Zenaida macroura,moudov,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+cdd331c8-7f5a-4b08-90c3-8d7d2867c8ea,2022-09-23,33.777049,-84.397386,Mourning Dove,Zenaida macroura,moudov,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+325c7ebe-2ecb-45a3-a1c1-f9e2bd9b68d1,2022-09-25,33.777214,-84.394923,Yellow-billed Cuckoo,Coccyzus americanus,yebcuc,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+eb794165-1165-464b-bf40-2867f159246c,2022-09-26,33.773962,-84.396254,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+87efb1b7-1cb1-4fc1-8a2d-d8a8558964bd,2022-09-26,33.779525,-84.396603,Tennessee Warbler,Leiothlypis peregrina,tenwar,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+5beef1b1-96d2-4da9-8ef2-914c9003f818,2022-09-26,33.775387,-84.397022,Swainson's Thrush,Catharus ustulatus,swathr,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+979c6a3c-3b26-47f0-9df7-e2ceadcdeaee,2022-09-27,33.772136,-84.394055,Ovenbird,Seiurus aurocapilla,ovenbi1,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+c7666f2d-5d56-4192-b3e0-38327e2722f3,2022-09-27,33.777679,-84.40378,Ovenbird,Seiurus aurocapilla,ovenbi1,ADULT,UNKNOWN,DEAD,collision with building/structure,2022
+96f4ac40-2377-4fcd-9484-f85cf045856d,2022-09-28,33.775264,-84.399768,Gray Catbird,Dumetella carolinensis,grycat,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+8c481bd9-923d-4a6e-9ad2-26e3731c148d,2022-09-28,33.775806,-84.387471,Wood Thrush,Hylocichla mustelina,woothr,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+ee475d38-eebc-46a2-811f-01689d09a464,2022-09-29,33.775172,-84.401682,warbler sp. (Parulidae sp.),Parulidae sp.,warble,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2022
+a98661df-3dee-4e75-8daf-7d630c38f557,2022-09-29,33.779931,-84.3963,Tennessee Warbler,Leiothlypis peregrina,tenwar,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+b799fb93-ce3b-4b0c-b254-56fec9c0ce5b,2022-09-29,33.775265,-84.39961,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+6e9dbb22-f6bb-4aa9-9712-3c2f5a8aac5a,2022-09-30,33.775214,-84.399618,Gray Catbird,Dumetella carolinensis,grycat,ADULT,UNKNOWN,DEAD,collision with building/structure,2022

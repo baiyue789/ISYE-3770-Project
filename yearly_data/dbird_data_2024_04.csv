@@ -1,10 +1,4 @@
 id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
-1d8dd262-64bc-4c8c-9470-1a53527db200,2024-02-08,33.779984,-84.397482,Eastern Towhee,Pipilo erythrophthalmus,eastow,ADULT,MALE,DEAD,collision with building/structure,2024
-ec35a2cd-18d6-4b63-9021-95f55dcf647f,2024-02-23,33.776315,-84.395622,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,collision with building/structure,2024
-e73e2fad-bc29-4db9-9d8b-95cc91a3aa2c,2024-03-05,33.779782,-84.39668,Brown Thrasher,Toxostoma rufum,brnthr,ADULT,UNKNOWN,DEAD,collision with building/structure,2024
-b497f3e1-1656-459f-b8df-c83875fbedf7,2024-03-11,33.780071,-84.396093,Cedar Waxwing,Bombycilla cedrorum,cedwax,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-f2aa5720-af83-4a49-928a-2ca11e156f99,2024-03-12,33.779896,-84.395976,Cedar Waxwing,Bombycilla cedrorum,cedwax,ADULT,UNKNOWN,DEAD,collision with building/structure,2024
-b0051e5b-bbc9-4cda-abf8-ed52d8fd980d,2024-03-16,33.780097,-84.39664,Cedar Waxwing,Bombycilla cedrorum,cedwax,ADULT,UNKNOWN,DEAD,collision with building/structure,2024
 2250a589-4af5-4aa1-9588-84d0b71f6095,2024-04-01,33.777126,-84.397235,Hermit Thrush,Catharus guttatus,herthr,UNKNOWN,UNKNOWN,DEAD,unknown,2024
 2621452f-3e97-4f85-b5e3-c4b4f124859f,2024-04-02,33.774855,-84.397734,Northern Mockingbird,Mimus polyglottos,normoc,UNKNOWN,UNKNOWN,DEAD,unknown,2024
 859bc744-68d9-4771-a660-566f9a9da22b,2024-04-10,33.771764,-84.393929,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2024
@@ -25,14 +19,3 @@ dde24863-083e-4d4c-9788-ea118657256b,2024-04-23,33.779789,-84.396629,Northern Wa
 7f632d9b-f478-4b45-be35-fcee56461d07,2024-04-24,33.779808,-84.396619,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2024
 1d18f97f-b562-4a16-b841-41f7db169728,2024-04-29,33.779928,-84.396486,Summer Tanager,Piranga rubra,sumtan,JUVENILE,MALE,INJURED,unknown,2024
 be9f2f5f-dbeb-46c6-8898-2022d4196996,2024-04-29,33.776847,-84.396983,Gray Catbird,Dumetella carolinensis,grycat,UNKNOWN,UNKNOWN,INJURED,collision with building/structure,2024
-0cd7176a-788d-4ed5-a639-240ae673cd56,2024-05-02,33.77982,-84.396607,Indigo Bunting,Passerina cyanea,indbun,ADULT,MALE,DEAD,collision with building/structure,2024
-e0879511-1329-4e2c-a5f8-5f3c48880c4f,2024-05-03,33.779787,-84.396629,Gray Catbird,Dumetella carolinensis,grycat,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-cccafa90-9481-47a8-92dd-4c4943113678,2024-05-03,33.777887,-84.399867,Gray Catbird,Dumetella carolinensis,grycat,UNKNOWN,UNKNOWN,DEAD,unknown,2024
-4d588a6d-f05a-458d-ae6d-c2374cf3edc2,2024-05-04,33.780097,-84.396828,Red-eyed Vireo,Vireo olivaceus,reevir1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-d30fb439-6349-4c46-97ad-07254df20af3,2024-05-06,33.77744,-84.398678,Ovenbird,Seiurus aurocapilla,ovenbi1,ADULT,UNKNOWN,DEAD,collision with building/structure,2024
-1333ee45-820a-4c73-b23c-0570e8d0e8b7,2024-05-14,33.775947,-84.395662,American Redstart,Setophaga ruticilla,amered,UNKNOWN,FEMALE,DEAD,collision with building/structure,2024
-2c13b627-9d8f-4bb4-8048-e567d5edcf5a,2024-05-14,33.776013,-84.395755,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,other,2024
-ba5177be-c773-479a-aacf-8a849f9fe5f9,2024-05-14,33.772944,-84.39612,Ovenbird,Seiurus aurocapilla,ovenbi1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2024
-40b62d7b-506b-45ff-ab71-5b977bec7abd,2024-05-18,33.77669,-84.396854,Northern Mockingbird,Mimus polyglottos,normoc,JUVENILE,UNKNOWN,DEAD,collision with building/structure,2024
-7da75e30-5598-4df9-905c-6026523f8bd9,2024-06-10,33.779308,-84.397188,Indigo Bunting,Passerina cyanea,indbun,ADULT,MALE,DEAD,collision with building/structure,2024
-81369916-f1a8-4148-944d-87dc8154d387,2024-06-28,33.774236,-84.397316,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2024

@@ -1,0 +1,6 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+55b5497b-6092-4b9b-8ed4-28c404b2e8be,2023-08-14,33.779923,-84.396655,Black-and-white Warbler,Mniotilta varia,bawwar,ADULT,FEMALE,DEAD,collision with building/structure,2023
+d239c87a-bac4-4486-95af-3ce09165df2e,2023-08-21,33.779786,-84.396586,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2023
+600badf3-005f-4a11-9bdf-6c8fd2599d2e,2023-08-21,33.779779,-84.396452,Northern Parula,Setophaga americana,norpar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+390d2e5f-cb46-482c-b29f-672720089505,2023-08-27,33.779849,-84.396604,Ruby-throated Hummingbird,Archilochus colubris,rthhum,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
+e0a1d951-683e-4824-bb2a-828d59ddb397,2023-08-28,33.78,-84.396619,Ruby-throated Hummingbird,Archilochus colubris,rthhum,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023

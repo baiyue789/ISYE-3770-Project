@@ -1,0 +1,6 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+bd53e564-be00-4d8e-a3f4-852afbd6d2a7,2022-07-02,33.779973,-84.396797,American Robin,Turdus migratorius,amerob,JUVENILE,UNKNOWN,DEAD,unknown,2022
+08f91c15-9fa1-4745-8bb9-a89c79cdbd23,2022-07-06,33.775674,-84.401892,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+45026ba3-e9ec-4424-9b06-18e150c09731,2022-07-08,33.775981,-84.402008,Mourning Dove,Zenaida macroura,moudov,JUVENILE,UNKNOWN,DEAD,collision with building/structure,2022
+bcc5c030-dd99-4e9d-9b51-d5e4215879e0,2022-07-13,33.780629,-84.397634,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2022
+134112f6-6deb-459a-8f61-48a26327a66d,2022-07-18,33.774246,-84.395602,House Finch,Haemorhous mexicanus,houfin,UNKNOWN,UNKNOWN,DEAD,unknown,2022

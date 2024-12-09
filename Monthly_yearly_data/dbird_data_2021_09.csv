@@ -1,0 +1,3 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+181decfd-1e48-4094-825a-b97fff386408,2021-09-21,33.77785,-84.402125,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2021
+e407ee04-b21f-49fe-aefc-f401d0f3d6de,2021-09-28,33.77847,-84.397214,Eastern Phoebe,Sayornis phoebe,easpho,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2021

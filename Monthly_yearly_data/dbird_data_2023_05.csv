@@ -1,28 +1,4 @@
 id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
-26845a8d-94e2-487f-b9b9-a70b99b26b32,2023-02-08,33.777575,-84.403762,unknown,unknown,,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
-aa6c088c-4d44-488a-b79b-c1f41fbcb140,2023-03-23,33.779266,-84.396313,Black-and-white Warbler,Mniotilta varia,bawwar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
-fd8e9789-c205-4df0-accc-d44c9556d27f,2023-03-27,33.77051,-84.390769,Cedar Waxwing,Bombycilla cedrorum,cedwax,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
-c72a562e-318c-4169-9481-c2743230c849,2023-03-29,33.775948,-84.396141,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
-693699ea-136e-4e06-9983-100fa2309295,2023-03-30,33.775875,-84.396038,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2023
-4c031842-1e0c-4533-9784-3a697c059eee,2023-03-30,33.776153,-84.396038,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,unknown,2023
-5d5918c0-ee0b-4a65-b2c0-627167609526,2023-03-31,33.779989,-84.396708,Cedar Waxwing,Bombycilla cedrorum,cedwax,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
-63c98e36-d654-4994-b27a-09c0f8ac24ca,2023-04-06,33.780005,-84.396662,Ruby-throated Hummingbird,Archilochus colubris,rthhum,ADULT,MALE,DEAD,collision with building/structure,2023
-0908449a-e5f2-4064-ad53-9b81d4e4f9fd,2023-04-07,33.776549,-84.39804,Carolina Wren,Thryothorus ludovicianus,carwre,ADULT,UNKNOWN,DEAD,unknown,2023
-c6411bb2-e936-4856-98cd-c4ff910e4058,2023-04-08,33.780036,-84.397402,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2023
-a4308a25-5ab8-40ff-be58-b97b9c94ed91,2023-04-09,33.780014,-84.397396,Cedar Waxwing,Bombycilla cedrorum,cedwax,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
-08c07bdc-810f-4b70-9683-29d316c9ca6f,2023-04-10,33.776073,-84.395122,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2023
-bd7d2a22-bfbb-4dbe-ab35-057924a2732f,2023-04-12,33.779776,-84.396602,Ruby-throated Hummingbird,Archilochus colubris,rthhum,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
-a8d98c3d-5f20-4b45-b907-d5b98e91667b,2023-04-20,33.776064,-84.394001,Northern Mockingbird,Mimus polyglottos,normoc,UNKNOWN,UNKNOWN,DEAD,unknown,2023
-a22272eb-2dfe-4ea1-879b-69acda7243f5,2023-04-23,33.77837,-84.396871,American Robin,Turdus migratorius,amerob,JUVENILE,UNKNOWN,DEAD,collision with building/structure,2023
-7df509af-17c2-4828-855b-e134611a7d6d,2023-04-23,33.779731,-84.396647,Ruby-throated Hummingbird,Archilochus colubris,rthhum,ADULT,MALE,DEAD,collision with building/structure,2023
-6ef63c47-996d-4948-a392-0ac3dca5641c,2023-04-24,33.774632,-84.391189,Black-and-white Warbler,Mniotilta varia,bawwar,UNKNOWN,UNKNOWN,DEAD,unknown,2023
-6aff0069-45b9-4944-a8da-4b78ab409e3a,2023-04-25,33.775373,-84.401864,American Goldfinch,Spinus tristis,amegfi,UNKNOWN,UNKNOWN,DEAD,unknown,2023
-8302ffed-bd15-4093-aa2a-b55b562f7b0d,2023-04-27,33.7793,-84.396651,Hermit Thrush,Catharus guttatus,herthr,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
-bd845380-5e62-42b0-a536-14c2c9a410e2,2023-04-28,33.78001,-84.396755,Swainson's Thrush,Catharus ustulatus,swathr,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
-45de086c-b5c1-4497-b742-3f554f7905b9,2023-04-28,33.780031,-84.396844,Swainson's Thrush,Catharus ustulatus,swathr,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
-36d8925c-979c-4954-9feb-f9ab3969eb3e,2023-04-28,33.78,-84.396706,Swainson's Thrush,Catharus ustulatus,swathr,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
-faec2bde-abbe-47d5-91f9-e5441dde7b53,2023-04-28,33.780039,-84.396738,Red-eyed Vireo,Vireo olivaceus,reevir1,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
-5c92a770-ed79-4fba-a84f-3e3a2a99c317,2023-04-29,33.779188,-84.397007,Yellow-rumped Warbler,Setophaga coronata,yerwar,UNKNOWN,UNKNOWN,DEAD,unknown,2023
 a633d41c-2a3f-43d7-b6d6-0478d9a741b9,2023-05-01,33.779798,-84.401028,Eastern Bluebird,Sialia sialis,easblu,JUVENILE,UNKNOWN,DEAD,collision with building/structure,2023
 b6c9f3f3-92a5-4f8f-ba50-0b4882087c39,2023-05-01,33.779673,-84.396694,Indigo Bunting,Passerina cyanea,indbun,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
 2ac04efb-846a-4987-b7fa-6798e61722d0,2023-05-01,33.779799,-84.396527,Indigo Bunting,Passerina cyanea,indbun,UNKNOWN,UNKNOWN,DEAD,unknown,2023

@@ -1,0 +1,7 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+aa6c088c-4d44-488a-b79b-c1f41fbcb140,2023-03-23,33.779266,-84.396313,Black-and-white Warbler,Mniotilta varia,bawwar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+fd8e9789-c205-4df0-accc-d44c9556d27f,2023-03-27,33.77051,-84.390769,Cedar Waxwing,Bombycilla cedrorum,cedwax,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
+c72a562e-318c-4169-9481-c2743230c849,2023-03-29,33.775948,-84.396141,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
+693699ea-136e-4e06-9983-100fa2309295,2023-03-30,33.775875,-84.396038,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2023
+4c031842-1e0c-4533-9784-3a697c059eee,2023-03-30,33.776153,-84.396038,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,unknown,2023
+5d5918c0-ee0b-4a65-b2c0-627167609526,2023-03-31,33.779989,-84.396708,Cedar Waxwing,Bombycilla cedrorum,cedwax,ADULT,UNKNOWN,DEAD,collision with building/structure,2023

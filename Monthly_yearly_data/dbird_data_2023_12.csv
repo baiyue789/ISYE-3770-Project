@@ -1,0 +1,5 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+b14085f5-4cf4-483f-8736-3ef8aae4ac75,2023-12-03,33.774209,-84.395832,Hermit Thrush,Catharus guttatus,herthr,UNKNOWN,UNKNOWN,DEAD,unknown,2023
+5cd73636-5278-41e7-a303-009a53df07c0,2023-12-27,33.779973,-84.396619,Red-tailed Hawk,Buteo jamaicensis,rethaw,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
+c13ea940-4cea-428b-891a-7f6ad2a48c6b,2023-12-27,33.776095,-84.398808,Red-tailed Hawk,Buteo jamaicensis,rethaw,ADULT,UNKNOWN,DEAD,unknown,2023
+4d0d4c80-92e7-40e3-b9d9-eeb53dde15d0,2023-12-30,33.780097,-84.396533,Red-tailed Hawk,Buteo jamaicensis,rethaw,ADULT,UNKNOWN,DEAD,collision with building/structure,2023

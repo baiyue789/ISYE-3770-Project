@@ -1,0 +1,3 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+7da75e30-5598-4df9-905c-6026523f8bd9,2024-06-10,33.779308,-84.397188,Indigo Bunting,Passerina cyanea,indbun,ADULT,MALE,DEAD,collision with building/structure,2024
+81369916-f1a8-4148-944d-87dc8154d387,2024-06-28,33.774236,-84.397316,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2024

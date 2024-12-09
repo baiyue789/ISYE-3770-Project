@@ -1,0 +1,4 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+811f5fbe-933d-4b79-ace5-458293ee81fc,2021-10-18,33.771884,-84.395607,passerine sp.,Passeriformes sp.,passer1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2021
+1492cb72-09c1-4019-8d0d-8fcc10f8485f,2021-10-18,33.776033,-84.398841,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2021
+654fa2b8-d4ef-421d-a417-7d529f2a19ca,2021-10-21,33.780315,-84.400629,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2021

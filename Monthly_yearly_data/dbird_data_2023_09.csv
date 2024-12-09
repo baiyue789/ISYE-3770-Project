@@ -1,0 +1,40 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+14888d84-b163-4d39-897e-5215c9341abb,2023-09-02,33.780031,-84.40349,Ruby-throated Hummingbird,Archilochus colubris,rthhum,UNKNOWN,FEMALE,DEAD,collision with building/structure,2023
+792aa871-dd79-498d-8efe-53b0cd34516d,2023-09-02,33.780094,-84.403625,Ruby-throated Hummingbird,Archilochus colubris,rthhum,UNKNOWN,FEMALE,DEAD,collision with building/structure,2023
+605beef2-b4e5-4303-9132-d05bd027f5ef,2023-09-04,33.779981,-84.396662,Northern Cardinal,Cardinalis cardinalis,norcar,JUVENILE,UNKNOWN,DEAD,collision with building/structure,2023
+8eb08b4e-81c7-434b-84ac-a52e1eb47c74,2023-09-05,33.776919,-84.396311,Swainson's Thrush,Catharus ustulatus,swathr,UNKNOWN,UNKNOWN,DEAD,unknown,2023
+2b6494c9-46d4-4bca-be12-8661884cee60,2023-09-06,33.777007,-84.396329,Catharus sp.,Catharus sp.,cathus,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
+67ac9c59-3190-4cf4-94b0-08b52abbf500,2023-09-07,33.779733,-84.396603,Canada Warbler,Cardellina canadensis,canwar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+55b82347-2b2e-4c10-a5e9-20e27bdbec71,2023-09-07,33.776284,-84.387773,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2023
+f0eefb2c-e02b-4767-a5c2-2cf101b9cce8,2023-09-09,33.779704,-84.3967,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+d3d5d921-05ef-4450-82a0-f94be37afee4,2023-09-10,33.775468,-84.401838,Ruby-throated Hummingbird,Archilochus colubris,rthhum,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+31727188-bdd4-4dc6-b799-ee2e492841ce,2023-09-11,33.779975,-84.396645,Veery,Catharus fuscescens,veery,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+fbdc79c9-1d28-464d-8e01-420cab3b7349,2023-09-11,33.776228,-84.387987,Ovenbird,Seiurus aurocapilla,ovenbi1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+ca991bf0-e0a0-43a5-a2d6-4be4ea8e7070,2023-09-12,33.77981,-84.396768,Ruby-throated Hummingbird,Archilochus colubris,rthhum,UNKNOWN,UNKNOWN,DEAD,unknown,2023
+5806ba3a-5dfa-479f-9044-db8d15efe13d,2023-09-13,33.775446,-84.396125,Mourning Dove,Zenaida macroura,moudov,UNKNOWN,UNKNOWN,INJURED,collision with building/structure,2023
+c759d51e-7bb4-41a7-bfca-4af804f4dc98,2023-09-13,33.774315,-84.39656,Ovenbird,Seiurus aurocapilla,ovenbi1,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+7d94f1e3-5513-4241-8b4c-3d4abd8fac45,2023-09-13,33.7791,-84.396077,Song Sparrow,Melospiza melodia,sonspa,UNKNOWN,FEMALE,DEAD,collision with building/structure,2023
+8c2d734b-4dff-4a63-a8bf-a1f314d88711,2023-09-14,33.77974,-84.396662,Ruby-throated Hummingbird,Archilochus colubris,rthhum,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+520ea436-6533-44cd-b26b-430a9a7bdaaa,2023-09-14,33.78001,-84.396676,Tennessee Warbler,Leiothlypis peregrina,tenwar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+73ef36e1-0fa3-41ff-8044-b21ada862eff,2023-09-14,33.776763,-84.387859,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+d23835c4-2608-4d10-a64c-c7072bdac837,2023-09-14,33.776812,-84.387832,Yellow-breasted Chat,Icteria virens,yebcha,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+a76714a9-b3f7-408f-ac8e-d1d528db34f0,2023-09-14,33.779762,-84.396337,unknown,unknown,,JUVENILE,UNKNOWN,DEAD,other,2023
+b93c3422-29ba-406c-aec8-ff5810c385c4,2023-09-14,33.776246,-84.387569,Yellow-breasted Chat,Icteria virens,yebcha,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+b590d74b-71dc-4998-afb1-e6456a2dc761,2023-09-14,33.776214,-84.387655,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+21996ca7-a660-4a7a-9849-922b04c46509,2023-09-15,33.77873,-84.396841,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2023
+111b73b0-0104-44f6-9631-7cba4ceb9827,2023-09-15,33.779825,-84.397096,Ovenbird,Seiurus aurocapilla,ovenbi1,UNKNOWN,UNKNOWN,DEAD,unknown,2023
+2881842e-58da-4e0f-9ca7-9c9703dfda01,2023-09-15,33.776033,-84.398841,Northern Mockingbird,Mimus polyglottos,normoc,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+c9ebc502-8dc6-493a-8d18-f129d4c9048e,2023-09-15,33.77996,-84.395934,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+3c5bce9c-2072-4fb0-9c59-6a8880675785,2023-09-15,33.779901,-84.396605,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+6f9f992e-9834-47ed-90de-0d2fcc068fd4,2023-09-19,33.779996,-84.396694,Tennessee Warbler,Leiothlypis peregrina,tenwar,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
+43d5d1ae-3448-4bf0-a6e3-4d245286b589,2023-09-20,33.778819,-84.399721,Gray Catbird,Dumetella carolinensis,grycat,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+f78e8dca-d691-4fbf-862e-dcf0e0ba9ab4,2023-09-20,33.777024,-84.396211,Northern Parula,Setophaga americana,norpar,JUVENILE,MALE,DEAD,collision with building/structure,2023
+e128ed96-4c62-4bbb-a23c-38495d69e773,2023-09-20,33.774532,-84.395685,Palm Warbler,Setophaga palmarum,palwar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+23e49d6f-95e1-4901-90ba-4f72c2fb147a,2023-09-21,33.779395,-84.404136,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,unknown,2023
+15b148a4-446d-4b1d-a359-5fdf4fef1203,2023-09-21,33.774416,-84.396624,Northern Waterthrush,Parkesia noveboracensis,norwat,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
+7212b4d8-2e25-4bc2-a57b-269a85b8b350,2023-09-22,33.779375,-84.396905,Scarlet Tanager,Piranga olivacea,scatan,ADULT,FEMALE,DEAD,collision with building/structure,2023
+48f98cdb-4411-436b-a7c1-b9a154401f07,2023-09-25,33.780015,-84.396586,Ovenbird,Seiurus aurocapilla,ovenbi1,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
+aab5d395-6fc7-4394-a192-843cacfd7918,2023-09-26,33.778866,-84.397247,Tennessee Warbler,Leiothlypis peregrina,tenwar,UNKNOWN,UNKNOWN,DEAD,collision with building/structure,2023
+93f524f8-c1cc-497e-94bb-ffebe958745c,2023-09-26,33.780064,-84.39676,American Robin,Turdus migratorius,amerob,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
+10f8fbec-f660-4c8b-ac61-4d6d749c97ab,2023-09-27,33.777007,-84.396254,Ovenbird,Seiurus aurocapilla,ovenbi1,ADULT,UNKNOWN,DEAD,collision with building/structure,2023
+3d80d59e-837a-4224-a274-e6864cb26533,2023-09-28,33.774944,-84.401705,Palm Warbler,Setophaga palmarum,palwar,UNKNOWN,UNKNOWN,DEAD,unknown,2023

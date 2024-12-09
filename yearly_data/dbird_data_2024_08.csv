@@ -1,0 +1,3 @@
+id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause,year
+00726254-a8ce-4e2c-9d13-506ae478c720,2024-08-01,33.780097,-84.396706,House Finch,Haemorhous mexicanus,houfin,JUVENILE,UNKNOWN,DEAD,collision with building/structure,2024
+4ec1b8b1-0b46-4603-b1ac-2f6109c65307,2024-08-22,33.778973,-84.396257,Chestnut-sided Warbler,Setophaga pensylvanica,chswar,UNKNOWN,UNKNOWN,INJURED,collision with building/structure,2024
