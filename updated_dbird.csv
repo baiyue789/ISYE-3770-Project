@@ -1,5 +1,5 @@
-id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause
-6cec8347-b6f0-4654-aced-036d7e9fcdec,2016-03-20,33.780814,-84.398132,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,
+    id,observed_at_utc,latitude,longitude,common_name,scientific_name,ebird_species_code,age,sex,bird_status,cause
+    6cec8347-b6f0-4654-aced-036d7e9fcdec,2016-03-20,33.780814,-84.398132,unknown,unknown,,UNKNOWN,UNKNOWN,DEAD,
 1e77571d-db09-4c1e-a052-61a742733299,2016-03-31,33.775589,-84.402061,Yellow-bellied Sapsucker,Sphyrapicus varius,yebsap,UNKNOWN,UNKNOWN,DEAD,
 98a3d481-c1bf-4504-a5fe-800664a2d489,2017-08-11,33.772618,-84.396546,warbler sp. (Parulidae sp.),Parulidae sp.,warble,UNKNOWN,UNKNOWN,DEAD,
 71313dd1-3628-42b9-b276-132bfbbf7ea7,2017-10-01,33.776419,-84.398585,Ovenbird,Seiurus aurocapilla,ovenbi1,ADULT,UNKNOWN,INJURED,collision with building/structure
